@@ -1,6 +1,6 @@
 ## 自我介绍
 
-这个仓库为23级计算机科学与技术6班邓子豪软件工程课程专用仓库
+清淮gg的 GitHub 主页
 
 <!--
 **QH-gen/QH-gen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
